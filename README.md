@@ -116,8 +116,12 @@ It demonstrates the ability to translate raw survey data into interpretable macr
 ## Authors
 
 Daniele Lepre  
+
 Alice Anna Maria Brunazzi
+
 Alessandro Della Beffa
+
 Sofia Turroni
+
 University of Milano-Bicocca  
 Data Science Lab – 2023/2024
